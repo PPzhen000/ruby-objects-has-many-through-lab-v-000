@@ -1,25 +1,25 @@
 class Appointment
 
-  @@all_appointments = [] 
+  @@all_appointments = []
 
   def initialize(patient, doctor, date)
     @patient = patient
     @doctor = doctor
-    @date = date 
-    @@all_appointments << self 
-  end 
+    @date = date
+    @@all_appointments << self
+  end
 
-  def self.all 
-    @@all_appointments 
-  end 
+  def self.all
+    @@all_appointments
+  end
 
-  def patient 
-    @patient 
-  end 
+  def patient
+    @patient
+  end
 
-  def doctor 
+  def doctor
     @doctor 
-  end 
-    
+  end
 
-end 
+
+end
