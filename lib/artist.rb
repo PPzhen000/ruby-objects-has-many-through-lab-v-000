@@ -9,4 +9,9 @@ class Artist
     @@all_artists << self
   end
 
+  def self.all 
+    @@all_artists
+  end 
+
+  
 end
