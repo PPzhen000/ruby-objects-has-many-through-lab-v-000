@@ -16,11 +16,11 @@ class Song
   end
 
   def genre
-    song.genre
+    self.genre
   end
 
   def artist
-    song.artist 
+    self.artist 
   end
 
 
