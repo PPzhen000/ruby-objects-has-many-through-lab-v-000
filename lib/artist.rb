@@ -1,9 +1,9 @@
-class Artist 
+class Artist
 
-  @@all_artist = [] 
+  @@all_artists = []
 
-  def initialize 
+  def initialize
 
-  end 
+  end
   
-end 
+end
