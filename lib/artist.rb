@@ -23,5 +23,5 @@ class Artist
 
   def genres
 
-  end 
+  end
 end
