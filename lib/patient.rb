@@ -18,7 +18,8 @@ class Patient
   end
 
   def doctors
-
+    # Appointment.all.select do |Appointment|
+      
   end
 
 end
