@@ -12,7 +12,7 @@ class Song
   end
 
   def self.all?
-    @@all_songs 
+    @@all_songs
   end
 
   def genre
